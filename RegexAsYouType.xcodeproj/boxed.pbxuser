@@ -1,0 +1,171 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = AEF55D150FC352420070C9CA /* RegexAsYouType */;
+		activeTarget = 8D1107260486CEB800E47090 /* RegexAsYouType */;
+		codeSenseManager = AEF55D220FC352640070C9CA /* Code sense */;
+		executables = (
+			AEF55D150FC352420070C9CA /* RegexAsYouType */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319843579;
+			PBXWorkspaceStateSaveDate = 319843579;
+		};
+		perUserProjectItems = {
+			AEC8D50313106D4F004A0039 /* PBXTextBookmark */ = AEC8D50313106D4F004A0039 /* PBXTextBookmark */;
+			AEC8D50413106D4F004A0039 /* PlistBookmark */ = AEC8D50413106D4F004A0039 /* PlistBookmark */;
+			AEC8D50513106D4F004A0039 /* PBXTextBookmark */ = AEC8D50513106D4F004A0039 /* PBXTextBookmark */;
+			AEC8D51013106DD8004A0039 /* PBXTextBookmark */ = AEC8D51013106DD8004A0039 /* PBXTextBookmark */;
+			AEF55D7D0FC5AE070070C9CA /* PBXTextBookmark */ = AEF55D7D0FC5AE070070C9CA /* PBXTextBookmark */;
+		};
+		sourceControlManager = AEF55D210FC352640070C9CA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 800}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1432}";
+		};
+	};
+	77631A3E0C0748CF005415CB /* main.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 656}}";
+			sepNavSelRange = "{417, 0}";
+			sepNavVisRange = "{0, 420}";
+		};
+	};
+	7790198E0C07548A00326F66 /* RegexAsYouTypeAppDelegate.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1408}}";
+			sepNavSelRange = "{1230, 0}";
+			sepNavVisRange = "{222, 1233}";
+		};
+	};
+	8D1107260486CEB800E47090 /* RegexAsYouType */ = {
+		activeExec = 0;
+		executables = (
+			AEF55D150FC352420070C9CA /* RegexAsYouType */,
+		);
+	};
+	AEC8D50313106D4F004A0039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* RegexAsYouTypeAppDelegate.py */;
+		name = "RegexAsYouTypeAppDelegate.py: 46";
+		rLen = 0;
+		rLoc = 1233;
+		rType = 0;
+		vrLen = 1233;
+		vrLoc = 222;
+	};
+	AEC8D50413106D4F004A0039 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/boxed/Open Source Projects/RegexAsYouType/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	AEC8D50513106D4F004A0039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1432;
+		vrLoc = 0;
+	};
+	AEC8D51013106DD8004A0039 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77631A3E0C0748CF005415CB /* main.py */;
+		name = "main.py: 20";
+		rLen = 0;
+		rLoc = 417;
+		rType = 0;
+		vrLen = 420;
+		vrLoc = 0;
+	};
+	AEF55D150FC352420070C9CA /* RegexAsYouType */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RegexAsYouType;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AEF55D210FC352640070C9CA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AEF55D220FC352640070C9CA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AEF55D7D0FC5AE070070C9CA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 77631A3E0C0748CF005415CB /* main.py */;
+		name = "main.py: 5";
+		rLen = 0;
+		rLoc = 16;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+}
